@@ -1,5 +1,5 @@
+streamlit run app.py
 import streamlit as st
-import rdkit-pypi as rdkit
 from rdkit import Chem
 from rdkit.Chem import Descriptors
 
